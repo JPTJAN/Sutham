@@ -13,7 +13,13 @@ It can be done in three parts.
 2.App to control the opening and closing of the sliding doors and segregation.
 3.Machine learning for segregation.
 
-For contributors,
+If you are a NITW student and would like to work on harware part, you can submit the following form.
+
+https://docs.google.com/forms/d/1NlGYFFXHedZyUUu99tgUuvnW6OjNsR-jrG3KmVKSN_Q/viewform?edit_requested=true
+
+
+
+For other contributors,
 
 You can submit the pull request if you could work on above.
 
