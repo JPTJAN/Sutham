@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sutham</string>
+    <string name="readme">
+            Digitalization of garbage management.\nThis project deals with the  implementation of smart tunnel  bin.\n
+            It includes the following features.\n1)Detection of garbage.\n2)Segregation of garbage.\n3)Disposing of garbage.\n
+            \nIt can be done in three parts.\n1)Website to collect the blueprint for making the tunnel design.\n2)App to control the opening and closing of the sliding doors and segregation.\n3)Machine learning for segregation.\n
+            \nIf you are a NITW student and would like to work on harware part, you can submit the following form.\n
+            https://docs.google.com/forms/d/1NlGYFFXHedZyUUu99tgUuvnW6OjNsR-jrG3KmVKSN_Q/viewform?edit_requested=true\n
+            \nFor other contributors,\nYou can submit the pull request if you could work on above
+            \n
+    </string>
+</resources>
