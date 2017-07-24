@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\padma\Sutham\Sutham\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\padma\Sutham\Sutham\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_aa488b4071d2fc50d8bf1bf1a294012902bc04b4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\padma\Sutham\Sutham\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\padma\Sutham\Sutham\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_55392e1479f006bd2abcaad6de1ee0e9b18a9b3f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\padma\Sutham\Sutham\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\padma\Sutham\Sutham\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_ac3dba7cef28abf4e3ffd59e410eeca8820b2c10\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\padma\Sutham\Sutham\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\padma\Sutham\Sutham\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_4e6ad0667fc7fb3913f800bf552fdcf0077a8c07\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\padma\Sutham\Sutham\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\padma\Sutham\Sutham\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_335f06afad7ac060c9bafb0f98074a6259705c14\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\padma\Sutham\Sutham\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="3a16f26a24923cec237e5bdc65f1e7b4a41e6a78">
+        <dex dex="C:\Users\padma\Sutham\Sutham\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1c42987b4741e08a2f5a9fe447ca94781e6ae6d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\padma\Sutham\Sutham\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="e1327f9ab67c6db8fcc3e2fb4ed6698bd79ca9bb">
+        <dex dex="C:\Users\padma\Sutham\Sutham\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e1981b9417adc2f3ae82b47690821988f2f846e3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\padma\Sutham\Sutham\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\padma\Sutham\Sutham\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_dc8b6cf4c17e2970f8f766b7c727a66ea3df5ade\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\padma\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\padma\Sutham\Sutham\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_a7b5d017e1a943630223b6e9ed3c29957c37b5bc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\padma\Sutham\Sutham\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\padma\Sutham\Sutham\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_ba1189f2474ce2dc7e0838457087daf9717c8844\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\padma\Sutham\Sutham\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\padma\Sutham\Sutham\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_aad2089d9f8e6340550cd046b23fa1ce92066665\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\padma\Sutham\Sutham\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\padma\Sutham\Sutham\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_bbfd06901d75a53dcfdf34fe953f1ad05bca0608\classes.dex" />
+    </item>
+
+</items>
